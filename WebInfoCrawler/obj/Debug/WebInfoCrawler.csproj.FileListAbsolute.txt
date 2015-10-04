@@ -1,0 +1,8 @@
+C:\Workspace\WebInfoCrawler\WebInfoCrawler\bin\Debug\WebInfoCrawler.exe.config
+C:\Workspace\WebInfoCrawler\WebInfoCrawler\bin\Debug\WebInfoCrawler.exe
+C:\Workspace\WebInfoCrawler\WebInfoCrawler\bin\Debug\WebInfoCrawler.pdb
+C:\Workspace\WebInfoCrawler\WebInfoCrawler\obj\Debug\WebInfoCrawler.exe
+C:\Workspace\WebInfoCrawler\WebInfoCrawler\obj\Debug\WebInfoCrawler.pdb
+C:\Workspace\WebInfoCrawler\WebInfoCrawler\bin\Debug\Fizzler.dll
+C:\Workspace\WebInfoCrawler\WebInfoCrawler\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Workspace\WebInfoCrawler\WebInfoCrawler\bin\Debug\HtmlAgilityPack.dll
